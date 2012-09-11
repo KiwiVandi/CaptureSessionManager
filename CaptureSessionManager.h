@@ -1,9 +1,7 @@
 //
 //  CaptureSessionManager.h
-//  Dirtgirlworld
 //
-//  Created by Dave van Dugteren on 3/07/12.
-//  Copyright (c) 2012 Whybin \ TBWA \ Tequila. All rights reserved.
+//  Created by Dave van Dugteren on 3/07/12..
 //
 
 #import <CoreMedia/CoreMedia.h>
